@@ -1,4 +1,4 @@
-# odin-recipes
+# Simple HTML recipes website
 A simple website that displays recipes; a showcase of foundational html concepts taught in the "The Odin Project" self study course.
 
 This project is a simple website consisting of a home page and multiple recipe pages. It is a showcase of basic html concepts and techniques as well as git convention and usage (hopefully).
